@@ -1,3 +1,3 @@
 # simple-card-for-developer-react
  
-<a href="https://warm-arithmetic-b7cd3f.netlify.app/" >click me!</a>
+<a href="https://timely-florentine-656dcc.netlify.app/" >click me!</a>
