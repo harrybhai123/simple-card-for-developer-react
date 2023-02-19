@@ -1,0 +1,13 @@
+.MainContent{
+    font-size: 1.5rem;
+    background: #1A1B21;
+    padding: 1em 3em;
+    margin: -1.4em 0;
+}
+
+@media (max-width: 768px) {
+    .MainContent{
+        padding: 1em;
+        margin: -1.4em 0;
+    }
+}

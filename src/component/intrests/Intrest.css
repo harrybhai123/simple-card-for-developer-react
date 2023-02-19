@@ -1,0 +1,10 @@
+.Interests {
+  font-size: 1.5rem;
+  background: #1a1b21;
+  padding: 1em 3em;
+}
+@media (max-width: 768px) {
+    .Interests{
+        padding: 1em;
+    }
+}
